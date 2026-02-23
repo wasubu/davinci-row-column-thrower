@@ -2,7 +2,7 @@
 ![Screenshot](header.gif)
 ---
 ### Parent transform
-```json
+```lua
 {
 	Tools = ordered() {
 		Transform1 = Transform {
